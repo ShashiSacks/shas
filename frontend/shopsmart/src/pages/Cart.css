@@ -1,0 +1,31 @@
+.cart-page {
+  max-width: 1100px;
+  min-height: 65vh;
+  margin: 0 auto;
+  padding: 50px 24px;
+}
+
+.cart-page h1 {
+  margin-bottom: 16px;
+  color: #171b2d;
+  font-size: 32px;
+}
+
+.cart-page p {
+  margin-bottom: 24px;
+  color: #6b7280;
+}
+
+.cart-primary-button {
+  display: inline-block;
+  padding: 12px 22px;
+  border-radius: 9px;
+  background: #6554e8;
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.cart-primary-button:hover {
+  background: #5141d5;
+}
